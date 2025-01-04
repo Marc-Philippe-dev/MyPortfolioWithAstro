@@ -13,6 +13,7 @@
     "astro-icon": "^1.1.5"
   },
   "devDependencies": {
+    "@iconify-json/mdi": "^1.2.2",
     "autoprefixer": "^10.4.20",
     "open-props": "^1.7.10",
     "postcss": "^8.4.49",
